@@ -16,9 +16,6 @@
 
 # Usaremos RandomForest neste script e Redes Neurais no Script seguinte.
 
-# Diretório de trabalho
-setwd("Z:/Dropbox/DSA/Business-Analytics/R/Cap06")
-
 # Pacotes
 library(randomForest) 
 library(dplyr)
